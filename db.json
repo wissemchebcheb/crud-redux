@@ -1,0 +1,27 @@
+{
+    "user": [
+        {
+            "name":"wissem",
+            "adress": "oran akid lotfi",
+            "email":"wissemchebcheb@gmail.com",
+            "contact":"0663072253",
+            "id":1
+        },
+
+        {
+            "name":"Reda",
+            "adress": "Bijaya",
+            "email":"redabeka@gmail.com",
+            "contact":"05421212",
+            "id":2
+        },
+
+        {
+            "name":"ali",
+            "adress": "alger",
+            "email":"ali@gmail.com",
+            "contact":"0215215544",
+            "id":3
+        }
+    ]
+}
